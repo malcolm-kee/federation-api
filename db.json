@@ -1,0 +1,5 @@
+{
+    "endpoints": {
+        "career": "https://federation-career-versions.netlify.app/v1"
+    }
+}
