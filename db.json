@@ -1,5 +1,16 @@
 {
-    "endpoints": {
-        "career": "https://federation-career-versions.netlify.app/v1"
+  "federations": [
+    {
+      "id": "shell",
+      "endpoints": {
+        "career": "https://federation-career-versions.netlify.app/v2"
+      }
+    },
+    {
+      "id": "bootstrap",
+      "endpoints": {
+        "shell": "https://federation-shell-versions.netlify.app/v1"
+      }
     }
+  ]
 }
