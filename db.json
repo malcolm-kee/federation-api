@@ -9,7 +9,8 @@
     {
       "id": "bootstrap",
       "endpoints": {
-        "shell": "https://federation-shell-versions.netlify.app/v1"
+        "shell": "https://federation-shell-versions.netlify.app/v2",
+        "career": "https://federation-career-versions.netlify.app/v2"
       }
     }
   ]
